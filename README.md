@@ -31,4 +31,6 @@
 <!--   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a> -->
 </p>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdaewonn&count_bg=%236564DD&title_bg=%23CC87EB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaewonn&show_icons=true&theme=radical)
