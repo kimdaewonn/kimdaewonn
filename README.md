@@ -32,3 +32,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaewonn&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimdaewonn)](https://solved.ac/kimdaewonn)<br/>
