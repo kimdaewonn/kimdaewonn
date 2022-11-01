@@ -1,3 +1,6 @@
+<!--헤더  -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## Hi there 👋
 
 ### 나의 스킬 ⚡    
@@ -40,7 +43,5 @@
 <!-- 사용 비율 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaewonn&layout=compact)](https://github.com/kimdaewonn/github-readme-stats)
 
-<!--헤더  -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-<!--  -->
+<!--푸터  -->
+![footer](https://capsule-render.vercel.app/api?type=transparent&color=blue&height=300&section=header&text=capsule%20render&fontSize=90)
