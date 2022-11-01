@@ -4,7 +4,8 @@
 
 ## Hi there 👋
 
-### 나의 스킬 ⚡    
+### 나의 스킬 ⚡   
+ 
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
@@ -18,7 +19,7 @@
 <!--   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a> -->
 </p>   
  
-### 편리성 🚗
+### 편리성 🚗   
  
 <p> 
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white"></a>
