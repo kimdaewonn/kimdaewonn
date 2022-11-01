@@ -1,3 +1,4 @@
+ <div align=center>
 <!--헤더  -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=capsule%20render&fontSize=90)
 
@@ -45,3 +46,6 @@
 
 <!--푸터  -->
 ![footer](https://capsule-render.vercel.app/api?type=transparent&color=blue&height=300&section=header&text=capsule%20render&fontSize=90)
+  
+  
+  </div>
