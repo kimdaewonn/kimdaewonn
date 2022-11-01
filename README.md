@@ -23,12 +23,16 @@
 <p> 
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white"></a>
 </p>
+ 
 ### 파일_수납장 : 데이터베이스 & 클라우드 호스팅 📮   
+ 
 <p>
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white"></a>
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
 </p>
+ 
 ### 컴퓨터: 소프트웨어 & 툴 🛠   
+ 
 <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=Adobe&logoColor=white"></a>
