@@ -1,5 +1,5 @@
 <!--헤더  -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
  <div align=center>
 
  
@@ -53,5 +53,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaewonn&layout=compact)](https://github.com/kimdaewonn/github-readme-stats)
 
   </div>
-  <!--푸터  -->
-![footer](https://capsule-render.vercel.app/api?type=transparent&color=blue&height=300&section=header&text=capsule%20render&fontSize=90)
