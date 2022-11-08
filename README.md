@@ -54,10 +54,10 @@
  ### 리액트/뷰 수업 예제
 
 <div>
-<a href="https://darling-kitten-074c5e.netlify.app">리액트 사이트1(https://darling-kitten-074c5e.netlify.app)</a>
-<a href="https://vueclass51-b3b6f.web.app">뷰 사이트1(https://vueclass51-b3b6f.web.app)</a>
-<br>
-<a href="https://superlative-platypus-378a69.netlify.app">리액트 API 사이트(https://superlative-platypus-378a69.netlify.app)</a>
+<a href="https://darling-kitten-074c5e.netlify.app">리액트 사이트1(https://darling-kitten-074c5e.netlify.app)</a><br>
+<a href="https://vueclass51-b3b6f.web.app">뷰 사이트1(https://vueclass51-b3b6f.web.app)</a><br>
+<br><br>
+<a href="https://superlative-platypus-378a69.netlify.app">리액트 API 사이트(https://superlative-platypus-378a69.netlify.app)</a><br>
 <a href="https://vueapi51.web.app">뷰 API 사이트(https://vueapi51.web.app)</a>
 
 </div>
