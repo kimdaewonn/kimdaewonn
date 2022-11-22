@@ -59,7 +59,7 @@
 <br><br>
 <a href="https://superlative-platypus-378a69.netlify.app">리액트 API 사이트(https://superlative-platypus-378a69.netlify.app)</a><br>
 <a href="https://vueapi51.web.app">뷰 API 사이트(https://vueapi51.web.app)</a><br>
- <a href=https://magnificent-cupcake-b6bc1e.netlify.app">리액트 유튜브 API 사이트(https://magnificent-cupcake-b6bc1e.netlify.app)</a>
+ <a href="https://magnificent-cupcake-b6bc1e.netlify.app">리액트 유튜브 API 사이트(https://magnificent-cupcake-b6bc1e.netlify.app)</a>
 
 
 </div>
