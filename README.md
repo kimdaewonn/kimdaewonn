@@ -58,7 +58,7 @@
 <a href="https://vueclass51-b3b6f.web.app">뷰 사이트1(https://vueclass51-b3b6f.web.app)</a><br>
 <br><br>
 <a href="https://superlative-platypus-378a69.netlify.app">리액트 API 사이트(https://superlative-platypus-378a69.netlify.app)</a><br>
-<a href="https://vueapi51.web.app">뷰 API 사이트(https://vueapi51.web.app)</a><br>
+<a href="https://vueapi51.web.app">뷰 API 사이트([https://vueapi51.web.app](https://loquacious-dango-7067c3.netlify.app))</a><br>
  <a href="https://magnificent-cupcake-b6bc1e.netlify.app">리액트 유튜브 API 사이트(https://magnificent-cupcake-b6bc1e.netlify.app)</a>
 
 
